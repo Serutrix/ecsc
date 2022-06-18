@@ -1,0 +1,8 @@
+name: easycommandshortcuts
+version: '${project.version}'
+main: multiryzz.ecsc.Ecsc
+api-version: 1.19
+load: STARTUP
+authors: [ Siro ]
+description: setup simple shortcuts with no bloat
+website: https://liberapay.com/Serutrix/
